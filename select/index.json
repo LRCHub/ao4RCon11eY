@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Close Eyes",
+  "base_artist": "DVRST",
+  "createdAt": "2025-12-01T16:02:04.730832Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/01_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Close Eyes (Sped Up)",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/02_Close_Eyes_(Sped_Up)_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/03_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Close Eyes - Slowed + Reverb",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/04_Close_Eyes_-_Slowed_+_Reverb_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Close Eyes [Explicit]",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/05_Close_Eyes_[Explicit]_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/06_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Close Eyes (Slowed + Reverb)",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/07_Close_Eyes_(Slowed_+_Reverb)_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/08_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DVRST - Close Eyes (Slowed + Reverb)",
+      "artist": "Chill Nation",
+      "has_synced": true,
+      "path": "select/09_DVRST_-_Close_Eyes_(Slowed_+_Reverb)_Chill_Nation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DVRST - Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/10_DVRST_-_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/11_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Close Eyes (Sped Up)",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/12_Close_Eyes_(Sped_Up)_DVRST.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST - Topic",
+      "has_synced": true,
+      "path": "select/13_Close_Eyes_DVRST_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Close Eyes",
+      "artist": "DVRST",
+      "has_synced": true,
+      "path": "select/14_Close_Eyes_DVRST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Close Eyes, Count to Ten",
+      "artist": "John Miles",
+      "has_synced": false,
+      "path": "select/pl_01_Close_Eyes,_Count_to_Ten_John_Miles.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Close Eyes to Exit",
+      "artist": "John Miles",
+      "has_synced": false,
+      "path": "select/pl_02_Close_Eyes_to_Exit_John_Miles.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Close Eyes",
+      "artist": "John Miles",
+      "has_synced": false,
+      "path": "select/pl_03_Close_Eyes_John_Miles.txt"
+    }
+  ]
+}
