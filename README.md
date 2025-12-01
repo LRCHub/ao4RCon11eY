@@ -1,0 +1,81 @@
+# DVRST – Close Eyes
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Late summer in the city,
+Just as the night comes around
+to my door,
+She's somewhere sitting pretty,
+She knows we'll soon
+Be together once more
+It's a happy ending story,
+And it's good to know she's
+waitin' for me there,
+With lovin' to share.
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again,
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+I feel I could be dreamin'
+So good to know, that you're
+always around,
+Works that take so much
+believin:
+Don't want to lose, everything
+that we've found
+Everyday that we're together,
+Makes me realise more than
+you'll ever know,
+I can't let you go.
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Everyday that we're together,
+Makes me realise more than
+you'll ever know,
+I can't let you go.
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again)
+We fell in love again
+Love again
+Close eyes count to ten
+(Count to ten back again) ...
+```
